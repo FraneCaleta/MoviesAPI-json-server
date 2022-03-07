@@ -1,3 +1,3 @@
 ## Simple JSON server that is used by MoviesAPI application
 
-### You just need to run it with "npm start" and server will listen for changes on port 3001.
+### You just need to run it with the help of "npm start" and server will start listening for changes on the port 3001.
