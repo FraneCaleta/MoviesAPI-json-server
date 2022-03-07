@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "title": "The Godfather",
+      "description": "An Awesome Movie!",
+      "userId": "100155979556473448334",
+      "id": 1
+    },
+    {
+      "title": "LOTR",
+      "description": "Best Triology ever.",
+      "userId": "100155979556473448334",
+      "id": 2
+    },
+    {
+      "title": "12 Angry Men",
+      "description": "Old but gold",
+      "userId": "100155979556473448334",
+      "id": 3
+    },
+    {
+      "title": "Fight Club ",
+      "description": "Fight me bro",
+      "userId": "100155979556473448334",
+      "id": 4
+    },
+    {
+      "title": "Gladiator",
+      "description": "Fight me and you'll regret it",
+      "userId": "100155979556473448334",
+      "id": 5
+    },
+    {
+      "title": "The Dark Knight",
+      "description": "Best Batman movie?",
+      "userId": "100155979556473448334",
+      "id": 6
+    },
+    {
+      "title": "The Batman 2022",
+      "description": "Not as good as old one?",
+      "userId": "100155979556473448334",
+      "id": 7
+    },
+    {
+      "title": "The Witcher",
+      "description": "Henry Cavill is just awesome!!!",
+      "userId": "100155979556473448334",
+      "id": 8
+    },
+    {
+      "title": "Scream",
+      "description": "Scary... or is it?",
+      "userId": "100155979556473448334",
+      "id": 9
+    }
+  ]
+}
